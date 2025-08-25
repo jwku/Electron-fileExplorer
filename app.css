@@ -6,6 +6,8 @@
 
 html, body{
     font-size: 10px;
+    background-color: #808080; /* grey */
+
 }
 /* 工具栏 */
 #toolBar{

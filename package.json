@@ -1,10 +1,13 @@
 {
-  "name": "lorikeet",
+  "name": "Electron-fileExplorer",
   "version": "1.0.0",
-  "description": "A fileExplorer",
   "main": "main.js",
-  "dependencies": {
-    "lunr": "^2.3.5",
-    "osenv": "^0.1.5"
+  "scripts": {
+    "start": "electronmon ."
+  },
+  "devDependencies": {
+    "electron": "^26.6.10",
+    "electron-reload": "^2.0.0-alpha.1",
+    "electronmon": "^2.0.3"
   }
 }
